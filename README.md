@@ -13,4 +13,5 @@ Install the Processing IDE to open and run hmm_drawing.pde
 1. Draw a character by holding Left Click and dragging the cursor
 2. See the Most Likely Prediction in the top left of the UI
 
+This video demonstrates the program being trained on a variety of alphanumeric characters and performing several accurate predictions.
 [![Demo Video](https://img.youtube.com/vi/ayallcYglZA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ayallcYglZA)
